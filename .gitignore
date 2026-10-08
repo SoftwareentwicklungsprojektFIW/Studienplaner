@@ -1,0 +1,14 @@
+# IntelliJ / Java
+.idea/
+*.iml
+target/
+build/
+out/
+
+# VS Code / JavaScript
+frontend/node_modules/
+frontend/dist/
+
+# Betriebssysteme
+.DS_Store
+Thumbs.db
